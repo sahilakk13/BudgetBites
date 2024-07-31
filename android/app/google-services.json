@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "621042869280",
+    "firebase_url": "https://budget-bites-9d245-default-rtdb.firebaseio.com",
+    "project_id": "budget-bites-9d245",
+    "storage_bucket": "budget-bites-9d245.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621042869280:android:c35c77ea84e22ea8c60845",
+        "android_client_info": {
+          "package_name": "com.example.bb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjBs2-xlyxOf_ZlBylnW7eyPa-Cv32hLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
